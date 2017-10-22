@@ -17,19 +17,19 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./NVIDIA.jpg "NVIDIA's Model Structure"
-[image2]: ./output_6_0.png "Sample Data 1"
-[image3]: ./output_6_1.png "Sample Data 2"
-[image4]: ./output_6_2.png "Sample Data 3"
-[image5]: ./output_6_3.png "Sample Data 4"
-[image6]: ./output_6_4.png "Sample Data 5"
-[image7]: ./center.jpg "Sample Data 6"
-[image8]: ./rec0.jpg "Sample Data 7"
-[image9]: ./rec1.jpg "Sample Data 8"
-[image10]: ./rec2.jpg "Sample Data 9"
-[image11]: ./center2.jpg "Sample Data 10"
-[image12]: ./center2_flipped.jpg "Sample Data 10"
-[image13]: ./output_18_1.png "Sample Data 12"
+[image1]: ./Images/NVIDIA.jpg "NVIDIA's Model Structure"
+[image2]: ./Images/output_6_0.png "Sample Data 1"
+[image3]: ./Images/output_6_1.png "Sample Data 2"
+[image4]: ./Images/output_6_2.png "Sample Data 3"
+[image5]: ./Images/output_6_3.png "Sample Data 4"
+[image6]: ./Images/output_6_4.png "Sample Data 5"
+[image7]: ./Images/center.jpg "Sample Data 6"
+[image8]: ./Images/rec0.jpg "Sample Data 7"
+[image9]: ./Images/rec1.jpg "Sample Data 8"
+[image10]: ./Images/rec2.jpg "Sample Data 9"
+[image11]: ./Images/center2.jpg "Sample Data 10"
+[image12]: ./Images/center2_flipped.jpg "Sample Data 10"
+[image13]: ./Images/output_18_1.png "Sample Data 12"
 
 
 ## Rubric Points
